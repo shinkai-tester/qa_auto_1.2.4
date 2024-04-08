@@ -22,7 +22,7 @@
 - write down and share with us what you have noticed in the code after using each of these 3 parameters
 - save logs for all theese actions into a file and share it with us!
 
-'''bash
+```bash
 alexa@Shinkai MINGW64 ~/IT_Switcher_JS/qa_auto_1.2.4 (main)
 $ git status
 On branch main
@@ -232,4 +232,4 @@ Your branch is ahead of 'origin/main' by 3 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
-'''
+```
